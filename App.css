@@ -1,0 +1,43 @@
+#root {
+  max-height: 750px;
+  height: 750px;
+  max-width: 1500px;
+  width: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  background-color: #659DBD
+}
+
+.header {
+  text-decoration: underline;
+}
+
+.delete {
+  border: 4px solid black;
+  background-color: red;
+  margin-left: 10px;
+}
+
+.add {
+  border: 4px solid black;
+  background-color: green;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputs {
+  border: 2px solid black;
+  background-color: #659DBD;
+}
+
